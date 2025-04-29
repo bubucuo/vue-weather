@@ -4,7 +4,7 @@ This template should help get you started developing with Vue 3 in Vite. The tem
 
 Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
 
-# start
+# Start
 
 ```bash
 pnpm i
@@ -13,8 +13,8 @@ pnpm dev # or pnpm run dev
 
 # Refresh Data Triggers
 
-    1.	When switching tabs
-    2.	When pulling down to refresh the page
+1. When switching tabs
+2. When pulling down to refresh the page
 
 # Todo
 
@@ -31,7 +31,7 @@ cd vue-weather
 pnpm i
 pnpm dev # or pnpm run dev
 
-tailwindcss @tailwindcss/vite # then import tailwindcss and add plugins in vite.config.js
+pnpm add tailwindcss @tailwindcss/vite # then import tailwindcss and add plugins in vite.config.js
 
 pnpm add element-plus @element-plus/icons-vue # UI library
 
