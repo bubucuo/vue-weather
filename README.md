@@ -1,8 +1,6 @@
 # Screenshot
 
-![image](./public/screen.png)
-
-
+![image](./public/screenshot.png)
 
 # Visit
 
