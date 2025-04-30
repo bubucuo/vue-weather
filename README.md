@@ -1,6 +1,7 @@
 # Visit
 
 I’ve deployed the app to Vercel: https://vue-weather-liart.vercel.app
+
 You’re also welcome to run it locally:
 
 ```bash
