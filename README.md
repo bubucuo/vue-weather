@@ -1,3 +1,9 @@
+# Screenshot
+
+![image](./public/screen.png)
+
+
+
 # Visit
 
 I’ve deployed the app to Vercel: https://vue-weather-liart.vercel.app
